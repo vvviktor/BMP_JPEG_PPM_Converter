@@ -1,0 +1,6 @@
+/home/kustov/Desktop/Git_repo/BMP_Conv/build/CMakeFiles/imgconv.dir
+/home/kustov/Desktop/Git_repo/BMP_Conv/build/CMakeFiles/edit_cache.dir
+/home/kustov/Desktop/Git_repo/BMP_Conv/build/CMakeFiles/rebuild_cache.dir
+/home/kustov/Desktop/Git_repo/BMP_Conv/build/ImgLibBuildDir/CMakeFiles/ImgLib.dir
+/home/kustov/Desktop/Git_repo/BMP_Conv/build/ImgLibBuildDir/CMakeFiles/edit_cache.dir
+/home/kustov/Desktop/Git_repo/BMP_Conv/build/ImgLibBuildDir/CMakeFiles/rebuild_cache.dir

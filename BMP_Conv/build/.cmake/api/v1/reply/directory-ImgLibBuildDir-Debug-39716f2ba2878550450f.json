@@ -1,0 +1,14 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : [],
+		"files" : [],
+		"nodes" : []
+	},
+	"installers" : [],
+	"paths" : 
+	{
+		"build" : "ImgLibBuildDir",
+		"source" : "/home/kustov/Desktop/Git_repo/BMP_Conv/ImgLib"
+	}
+}
