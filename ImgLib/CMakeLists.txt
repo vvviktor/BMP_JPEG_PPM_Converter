@@ -3,13 +3,8 @@ cmake_minimum_required(VERSION 3.11)
 project(ImgLib CXX)
 set(CMAKE_CXX_STANDARD 17)
 
-# добавляем новую переменную - путь к LibJPEG
+# добавляем новую переменную - путь к LibJPEG. Укажите здесь актуальный путь к содержимому папки libjpeg. 
 set(LIBJPEG_DIR "/home/kustov/Desktop/Git_repo/BMP_Conv/libjpeg/" CACHE STRING "LibJPEG static library directory")
-#if(NOT LIBJPEG_DIR)
-#    message(FATAL_ERROR "Please, specify LibJPEG directory via -DLIBJPEG_DIR=<dir>")
-#endif()
-#message(STATUS "LibJPEG dir is ${LIBJPEG_DIR}, change via -DLIBJPEG_DIR=<dir>")
-
 set(IMGLIB_MAIN_FILES img_lib.h img_lib.cpp)
 
 # к файлам форматов добавим JPEG
