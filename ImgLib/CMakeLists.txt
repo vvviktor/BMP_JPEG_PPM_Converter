@@ -4,7 +4,7 @@ project(ImgLib CXX)
 set(CMAKE_CXX_STANDARD 17)
 
 # добавляем новую переменную - путь к LibJPEG. Укажите здесь актуальный путь к содержимому папки libjpeg. 
-set(LIBJPEG_DIR "/home/kustov/Desktop/Git_repo/BMP_JPEG_PPM_Conv/libjpeg/" CACHE STRING "LibJPEG static library directory")
+set(LIBJPEG_DIR "/home/kustov/Desktop/Git_repo/GitHub_public/BMP_JPEG_PPM_Converter/libjpeg/" CACHE STRING "LibJPEG static library directory")
 set(IMGLIB_MAIN_FILES img_lib.h img_lib.cpp)
 
 # к файлам форматов добавим JPEG
